@@ -1,0 +1,41 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.top{
+    height: 25%;
+    background-color: rgba(184, 44, 44, 0.959);
+}
+.logo{
+    position: absolute;
+    top: 22%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.img{
+    width: 40%;
+}
+
+.bottom{
+  height: 75%;
+  position: absolute;
+  top: 25%;
+  width: 100%;
+}
+
+#submit{
+    margin-top: 10px;
+}
+
+
+.header_login{
+    background-color: rgba(184, 44, 44, 0.959);
+    height: 75px;
+}
